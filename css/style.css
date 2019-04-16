@@ -2,8 +2,12 @@
 body {
     padding-top: 200px;
    /* Required padding for .navbar-fixed-top. Change if height of navigation changes. */
+   background-color:black;
+   color:white;
 }
-
+#navbar{
+    background-color:black;
+}
 .navbar-brand {
     color: white;	
 }
